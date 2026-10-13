@@ -1,6 +1,6 @@
-# Fair200 v3 · Pairwise Judge Prompt
+# Pairwise Judge Prompt
 
-本文为双模型裁判与 Jev 裁判共用的主评测 Prompt（与 `scripts/run_kimi_dafa_pairwise.py` 中 `JUDGE_PROMPT` 一致）。
+本文为双模型裁判与 Jev 裁判共用的主评测 Prompt。
 
 占位符：`{query}` / `{context}` / `{answer_a}` / `{answer_b}`。
 
